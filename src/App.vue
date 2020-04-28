@@ -1,14 +1,11 @@
 <template>
-  <div id="app">
+  <div id="app" class="container-fluid align-items-center">
     <Card />
-    <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   </div>
 </template>
 
 <script>
 import Card from "./components/card.vue";
-
-// import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: "app",
@@ -18,6 +15,13 @@ export default {
 };
 </script>
 
-<style>
+<style lang="scss">
 @import "~bootstrap/dist/css/bootstrap.css";
+#app{
+  padding: 5% 10%;
+}
+body{
+  background-color: #4c4c4c;
+
+}
 </style>
