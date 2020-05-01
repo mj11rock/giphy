@@ -1,4 +1,4 @@
-# my-project
+# Relaxing Cat Gifs Generator
 
 ## Project setup
 ```

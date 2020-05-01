@@ -42,7 +42,7 @@ export default {
     return {
       gifs: '',
       giphyURL:
-        "https://api.giphy.com/v1/gifs/random?api_key=CbSHaXroSuxGYrTZ95AdA5XHGptvSb6u&tag=eat"
+        "https://api.giphy.com/v1/gifs/random?api_key=CbSHaXroSuxGYrTZ95AdA5XHGptvSb6u&tag=cutecat"
     };
   },
 
